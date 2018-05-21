@@ -1,0 +1,15 @@
+{
+  "name": "roundly-rotate-file-transport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "triple-beam": "^1.2.0",
+    "winston-transport": "^3.2.1"
+  }
+}
