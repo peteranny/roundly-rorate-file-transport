@@ -1,12 +1,13 @@
 {
   "name": "roundly-rotate-file-transport",
   "version": "1.0.0",
-  "description": "",
+  "description": "A transport for winston which logs to a rotating file, one log per round, limiting the total number of logs.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Peter.Shih",
+  "homepage": "https://github.com/peteranny/roundly-rorate-file-transport",
   "license": "ISC",
   "dependencies": {
     "triple-beam": "^1.2.0",
